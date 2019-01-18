@@ -1,2 +1,0 @@
-# mapinfo
-mapinfo
